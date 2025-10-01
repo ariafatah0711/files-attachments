@@ -3,7 +3,7 @@ from pathlib import Path
 
 CHALLENGE_PATH = Path(__file__).parent / "challenge.json"
 
-NEW_FLAG = "FGTE{WVpNWHtLTDRfWTRkM18wa19LMzRlP19hM2EzfQ}9uuATZ4V7WuzHd6TMv1xNXZyobzUvPqNBv3Mq74EArWxzcErWgXqk7wrxswMP4Vo64QT5Sjg1QKzZdNWJHTdtbt662AmMj8JhqS343ud"
+NEW_FLAG = "FGTE{...}"
 # -----------------------------------------
 
 def main():
